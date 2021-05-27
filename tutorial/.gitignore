@@ -1,3 +1,5 @@
 # Tutorial output files
 *.csv
 *.pdf
+*.slides.html
+.ipynb_checkpoints
