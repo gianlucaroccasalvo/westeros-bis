@@ -6,6 +6,8 @@ Repo for third homework of Open Source Energy System Modelling 2021S Course.
 ## Content
 It contains Jupiter notebooks to study the impact of the introduction of a gas fired electricity production technology in the imaginary Westeros energy system.
 
+An introduction of every notebook and a commentary of the results will be present at the beginning and the end of the notebooks, substituing the report file.
+
 ## License disclaimer
 Copyright 2021 Gianluca Roccasalvo
 
